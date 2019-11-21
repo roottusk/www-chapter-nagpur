@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
+* [Tushar Kulkarni](mailto://tushar.kulkarni@owasp.org)
+* [Sahil Tembhare](mailto://sahil.tembhare@owasp.org)
+* [Hrishikesh Somchatwar](mailto://hrishikesh.somchatwar@owasp.org)
